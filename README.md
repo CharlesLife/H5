@@ -3,5 +3,6 @@
   http://htmlpreview.github.com/?https://github.com/CharlesLife/H5/blob/master/%E6%8B%9B%E8%81%98H5/%E6%8B%9B%E8%81%98.html
 
   手机扫码：
-    ![image](https://github.com/CharlesLife/H5/blob/master/%E6%8B%9B%E8%81%98H5/img/1514781889.png)
+    
+  ![image](https://github.com/CharlesLife/H5/blob/master/%E6%8B%9B%E8%81%98H5/img/1514781889.png)
 
